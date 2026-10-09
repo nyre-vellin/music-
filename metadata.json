@@ -1,0 +1,6 @@
+{
+  "name": "KDE Decibel FLAC - Plasma Hi-Fi Audio & Integrity Suite",
+  "description": "An ultra-sleek, modern FLAC music player tailored for Fedora KDE Plasma 6 with native lossless playback, deep FLAC health and authenticity checker, 15-band EQ, and real-time audio analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
